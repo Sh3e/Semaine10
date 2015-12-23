@@ -1,0 +1,27 @@
+body {
+	background-color: #DD4814;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	margin: 50px;
+	padding: 20px;
+	background-color: #F1F1F1;
+}
+
+.container {
+	width: 100%;
+	text-align: center;
+	padding-top: 30px;
+}
+
+#affichage {
+	padding-top: 20px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.btn {
+	background-color: #F1F1F1;
+	margin: 20px;
+}
